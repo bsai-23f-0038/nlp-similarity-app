@@ -51,7 +51,7 @@ streamlit run app.py
 
 ## 🌐 Streamlit Deployed App
 
-[🔗 Add your Streamlit Cloud link here after deployment]
+[🔗 https://nlp-similarity-app-ht4lzun8oksz3x6q9wmcmm.streamlit.app/]
 
 ## 📁 Repository Structure
 
